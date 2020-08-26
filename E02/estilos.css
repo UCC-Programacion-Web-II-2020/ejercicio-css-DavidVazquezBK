@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro&display=swap');
 /*quitar los border a la imágenes cuanto son hipervínculos*/
 img{ border:0; }
 
@@ -19,6 +20,7 @@ h2{	font-size: 1.5em; }
 	margin: 0 auto;
 	max-width: 1024px;
 	border: 1px solid #000;
+	color: #F263A6;
 }
 /*********************************/
 /*Encabezado*/
@@ -26,6 +28,7 @@ h2{	font-size: 1.5em; }
 /*Color en degradado creado en http://www.colorzilla.com/gradient-editor/ */
 	padding: 20px;
 	height:60px;
+	font-family: 'Advent Pro', sans-serif;
 }
 
 #header h1 { 
